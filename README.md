@@ -4,6 +4,5 @@
  <br>
  <br>
  <br>
-
  <h2>Objetivo do repositório</h2>
  Desenvolvido como um registro das atividades realizadas ao longo do curso e para permitir acesso ao conteúdo de forma remota.
